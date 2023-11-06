@@ -15,9 +15,7 @@
 
 ## Affe | 12.3 | blau
 
-- kann eine Karte von seinem Deck mit der Trumpkarte austauschen, wenn Sie die gleiche Farbe besitzt
-- ein Zauberer kann durch einen Narren ersetzt werden und umgekehrt.
-- besitzt dieser Spieler keine Karten mehr kann dieser Effekt nicht genutzt werden.
+- am Ende der Runde wird eine neue Stichfarbenkarte vom Stapel gezogen. Bei einer Karte die keine Farbkarte ist bleibt die alte Stichfarbe bestehen.
 
 ## Nagel+Hammer | N | weiß
 
