@@ -23,7 +23,7 @@
 
 ## Spiegel | 12.3 | lila
 
-- der Spieler der den Stich gewonnen hat und der Spieler der den Spiegel gewonnen hat ziehen sich gegenseitig eine Karte aus ihrer Hand.
+- der Spieler der den Stich gewonnen hat und der Spieler der den Spiegel gespielt hat tauschen ihre Handkarten
 
 ## Schlafender Bär | 1/2 | lila
 - Derjenige der den Stich gewinnt muss eine Karte auf den Stapel legen und muss eine Runde Aussetzen
