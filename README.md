@@ -74,4 +74,4 @@ Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bek
 
 - zerstört alle Sonderkarten in dem aktuellen Stich
 - gewinnt wenn eine Sonderkarte zerstört wurde 
-- verliert gegen Zauberer
+- verliert gegen Zauberer oder Fee
